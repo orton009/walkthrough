@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">walkthrough</string>
+    <array name="dots_active">
+        <item>@color/dots_active1</item>
+        <item>@color/dots_active2</item>
+        <item>@color/dots_active3</item>
+        <item>@color/dots_active4</item>
+    </array>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_color3"
+    android:padding="20dp"
+    >
+    <TextView
+        style="@style/textview_style"
+        android:text="Explore different themes\non our Themex Store"
+        />
+    <ImageView
+        style="@style/image_style"
+        android:src="@drawable/explorer"
+        />
+</RelativeLayout>
